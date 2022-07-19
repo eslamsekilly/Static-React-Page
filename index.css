@@ -1,0 +1,16 @@
+.navmenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right {
+    list-style: none;
+    display:flex;
+}
+
+.right > li {
+    padding-left: 10px;
+}
+.logo {
+    width:50px;
+}
